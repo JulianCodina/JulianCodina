@@ -4,10 +4,10 @@
 <br/>
 
 🔹 Desarrollo de aplicaciones web con **NodeJS, ReactJS y JavaScript**  
-🔹 Creación de **chatbots IA escalables conectados a bases de datos**  
+🔹 Creación de **aplicaciones web escalables conectados a bases de datos**  
 🔹 Interés en **Interfaces y diseños UI**  
 
-- 🔭 Actualmente trabajando en mi **portafolio web** v.2
+- 🔭 Actualmente trabajando en mi **App movil**
 - 📱 Aprendiendo **React Native** para el desarrollo de apps móviles  
 - 👨‍💻 Portafolio: [codina-portfolio.vercel.app](https://codina-portfolio.vercel.app/)  
 - 📫 Contacto: **depedrojulianismael@gmail.com**  
