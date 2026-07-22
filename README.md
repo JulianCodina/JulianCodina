@@ -69,6 +69,6 @@ Fullstack developer with **3+ years** building web and mobile apps — lately ob
 
 ### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Codina-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/julian-codina-de-pedro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Codina-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/julian-codina)
 [![Instagram](https://img.shields.io/badge/Instagram-@yulian.drawing-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yulian.drawing)
 [![Discord](https://img.shields.io/badge/Discord-dragonfire3624-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/dragonfire9)
